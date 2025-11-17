@@ -1,0 +1,15 @@
+# Core dependencies
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Optional: for type checking
+mypy>=1.5.0
+
+# Optional: for formatting
+black>=23.7.0
+isort>=5.12.0
+
+# Optional: for linting
+pylint>=2.17.0
+flake8>=6.1.0
+

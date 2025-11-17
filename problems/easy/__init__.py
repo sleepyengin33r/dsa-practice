@@ -1,0 +1,4 @@
+"""
+Easy difficulty problems.
+"""
+

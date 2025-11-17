@@ -1,0 +1,4 @@
+"""
+Searching algorithm implementations.
+"""
+
